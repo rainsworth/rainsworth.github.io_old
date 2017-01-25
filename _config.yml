@@ -3,7 +3,7 @@ name: Rachael Ainsworth
 bio: PhD in Astrophysics, globetrotter, coffee addict.
 
 # twitter summary info
-description: A blog about adventures in astrophysics.
+description: Adventures in astrophysics and data science.
 
 # if it's an external image, update below for true
 # better with square images
@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://rainsworth.github.io/assets/pdfs/ainsworthCV.pdf
 
 #url: https://koppl.in/indigo
 url: https://rainsworth.github.io
