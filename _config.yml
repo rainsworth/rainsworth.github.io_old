@@ -35,35 +35,30 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: rachael.ainsworth
+twitter: rachaelevelyn
 # google: mygoogle
-# instagram: myinstagram
+instagram: rachaelevelyn
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: rachaelainsworth
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: rainsworth
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+# email: myemail@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    rainsworth:
+        name: Rachael Ainsworth
+        bio: PhD in Astrophysics, globetrotter, coffee addict.
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        twitter: rachaelevelyn
+
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -71,8 +66,8 @@ authors:
 width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
+paginate: 5
+paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
@@ -91,7 +86,7 @@ show-tags: true
 related: true
 
 # show next & prev links in blog post?
-blog-nav-links: false
+blog-nav-links: true
 
 # show author block at the end of a post ?
 show-author: true
