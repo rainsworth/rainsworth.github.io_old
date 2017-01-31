@@ -14,6 +14,8 @@ author: rainsworth
 externalLink: false
 ---
 
+<p align="justify">C. P. Coughlan, <b>R. E. Ainsworth</b>, J. Eislöffel, M. Höft, A. Drabent, A. M. M. Scaife, T. P. Ray, et al., "A LOFAR Detection of the Low Mass Young Star T Tau at 149 MHz", <i>Astrophysical Journal</i>, 834, 206-213, 2017.</p>
+
 <p align="center"><a href="http://adsabs.harvard.edu/abs/2017ApJ...834..206C">ADS link</a> | <a href="https://rainsworth.github.io/assets/pdfs/Coughlan_2017_ApJ_834_206.pdf">Full PDF</a></p>
 
 ![TTau LOFAR image](https://rainsworth.github.io/assets/images/projects/TTAU_LOFAR_image.png)
@@ -23,4 +25,4 @@ externalLink: false
 
 ![TTau LOFAR SED](https://rainsworth.github.io/assets/images/projects/TTAU_LOFAR_SED.png)
 
-<p align="justify">C. P. Coughlan, <b>R. E. Ainsworth</b>, J. Eislöffel, M. Höft, A. Drabent, A. M. M. Scaife, T. P. Ray, et al., "A LOFAR Detection of the Low Mass Young Star T Tau at 149 MHz", <i>Astrophysical Journal</i>, 834, 206-213, 2017.</p>
+
