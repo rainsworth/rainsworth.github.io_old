@@ -1,0 +1,21 @@
+---
+title: "SciFest@School Santa Sabina Sutton"
+layout: post
+date: 2017-03-10 17:00
+image: 
+headerImage: false
+tag:
+- SciFest
+- Women in STEM
+blog: true
+star: true
+author: rainsworth
+description: Judging science fair projects at Santa Sabina Sutton secondary school as part of SciFest@School
+---
+
+
+
+<p align="justify">On 10 March 2017, I joined my friend Grainne to judge science fair projects at her old all girls secondary school, Santa Sabina Sutton, as part of <a href="http://scifest.ie">SciFest@School</a>. There were around 50 projects to judge and awards were given for overall best project, specific catagory projects, and honourable mentions. It was inspiring to witness the enthusiasm of the next generation of women in STEM!</p> 
+
+![SciFest1](https://rainsworth.github.io/assets/images/blog/SciFest1.jpg)
+![SciFest2](https://rainsworth.github.io/assets/images/blog/SciFest2.jpg)
