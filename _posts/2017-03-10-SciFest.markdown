@@ -1,5 +1,5 @@
 ---
-title: "SciFest@School Santa Sabina Sutton"
+title: "SciFest@School"
 layout: post
 date: 2017-03-10 17:00
 image: 
