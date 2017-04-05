@@ -8,7 +8,7 @@ tag:
 - SciFest
 - Women in STEM
 blog: true
-star: true
+star: 
 author: rainsworth
 description: Judging science fair projects at Santa Sabina Sutton secondary school as part of SciFest@School
 ---
