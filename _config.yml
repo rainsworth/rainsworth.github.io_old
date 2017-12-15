@@ -1,6 +1,6 @@
-# main text of home 
+# main text of home
 name: Rachael Ainsworth
-bio: NH native, PhD in Astrophysics, globetrotter, coffee addict.
+bio: Radio astronomer 📡✨ Open Science Champion 🔓 HER+Data MCR organiser 👩‍💻 Mozilla Open Leader 🦊 she/her
 
 # twitter summary info
 description: Adventures in astrophysics and data science.
@@ -54,7 +54,7 @@ medium: rainsworth
 authors:
     rainsworth:
         name: Rachael Ainsworth
-        bio: NH native, PhD in Astrophysics, globetrotter, coffee addict.
+        bio: Radio astronomer 📡✨ Open Science Champion 🔓 HER+Data MCR organiser 👩‍💻 Mozilla Open Leader 🦊 she/her
         external-image: false
         picture: assets/images/profile.jpg
         twitter: rachaelevelyn
