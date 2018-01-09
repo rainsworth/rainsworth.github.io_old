@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://github.com/rainsworth/awesomeCV/blob/master/resume.pdf
+resume-url: https://github.com/rainsworth/awesomeCV/blob/master/resume.pdf?raw=true
 
 #url: https://koppl.in/indigo
 url: https://rainsworth.github.io
