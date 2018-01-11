@@ -75,4 +75,18 @@ Below is a list of links to various media such as blog posts, social media, inte
 * [OpenCon project issues](https://github.com/sparcopen/doathon/issues)
 * [OpenCon OpenComm Network project issue](https://github.com/sparcopen/doathon/issues/7)
 * [OpenCon OpenComm Network podcast interview](https://soundcloud.com/rachaelevelyn/opencon-2017-interview)
-* [The Method Podcast OpenCon OpenComm episode](https://soundcloud.com/themethodpod
+* [The Method Podcast OpenCon OpenComm episode](https://soundcloud.com/themethodpodcast/01-what-is-open-media-opencomm-open-media-network-do-a-thon)
+* [Liberate Science newsletter](https://tinyletter.com/libscie/letters/opencon2017-and-mozilla-open-leadership)
+* [OpenCon 2017 blog pos](https://medium.com/@rainsworth/opencon-2017-7a2a5167c8a3)
+* [An Astronomy Open Science Champion’s experience of OpenCon2017 (guest blog post on UoM Library Research Plus)](https://blog.research-plus.library.manchester.ac.uk/2017/12/04/an-astronomy-open-science-champions-experience-of-opencon2017/)
+* [Reflections on the Open Science conferences of 2017 blog post](https://medium.com/@rainsworth/reflections-on-the-open-science-conferences-of-2017-bfcaac8fdb0b)
+
+## Some of my Twitter threads from conferences/events
+* [Open Science Fair 2017 Day 1](https://twitter.com/rachaelevelyn/status/905333550739857409)
+* [Open Science Fair 2017 Day 2](https://twitter.com/rachaelevelyn/status/905674802219827201)
+* [Open Science Fair 2017 Day 3](https://twitter.com/rachaelevelyn/status/906025774334959620)
+* [Astrotweeps thread on my work](https://twitter.com/astrotweeps/status/912596519605428224)
+* [OpenCon 2016 Day 1](https://twitter.com/rachaelevelyn/status/929269413764894721)
+* [OpenCon 2016 Day 2](https://twitter.com/rachaelevelyn/status/929632609872773123)
+* [OpenCon 2016 Day 3](https://twitter.com/rachaelevelyn/status/929996437605240832)
+* [Mozilla Open Leadership Round 4 Final Demos (Rebel Foxes)](https://twitter.com/rachaelevelyn/status/938408888386445312)
