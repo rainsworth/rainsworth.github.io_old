@@ -2,9 +2,14 @@
 title: "HER+Data MCR"
 layout: post
 date: 2018-01-10 15:00
+tag:
+image:
+headerImage: false
 projects: true
-description: "A meetup group for women who work with and love data."
-
+hidden: true # don't count this post in blog pagination
+description:
+author: rainsworth
+externalLink: false
 ---
 
 I organise the Manchester chapter of HER+Data - a meetup group which brings together women and all those who identify as women who work with and love data. Women have shared experiences and challenges that we face in male-dominated fields. As a thriving tech scene, Manchester only stands to benefit from gender balance in data roles - it is therefore important to build a network of women with whom to share our experiences, support each other and build confidence in ourselves to help combat gender inequality in tech.
