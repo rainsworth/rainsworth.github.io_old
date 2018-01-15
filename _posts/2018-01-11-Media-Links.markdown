@@ -37,6 +37,7 @@ Below is a list of links to various media such as blog posts, social media, inte
 * [eLife open science soapbox: Rachael Ainsworth shares Resources for Open Science in Astronomy (video)](https://youtu.be/uyPqJ1eGR_A)
 * [eLife at MozFest 2017 repo](https://github.com/npscience/eLife-at-MozFest2017/issues/3)
 * [eLife Fostering collaboration at MozFest recap](https://elifesciences.org/labs/7b73319e/fostering-collaboration-at-mozfest?utm_source=tw2&utm_campaign=MozFest)
+* [Software Sustainability Institute's blog post on MozFest 2017](https://software.ac.uk/blog/2018-01-15-mozfest-2017)
 
 
 ## University of Manchester
