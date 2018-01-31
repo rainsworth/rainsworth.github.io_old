@@ -71,6 +71,7 @@ Below is a list of links to various media such as blog posts, social media, inte
 * [GROW, Open Science and a New Social Contract](https://medium.com/grow-observatory-blog/grow-open-science-and-a-new-social-contract-1f4684f6528b)
 * [GROW Open Science Fair 2017 interview (video)](https://vimeo.com/238898068)
 * [FOSTER Open Science interview (video)](https://www.youtube.com/channel/UCeVAPU_TJwVIfL6lACfhkNw)
+* [Research Fortnight interview - UCL leads rebellion against big publishers](https://www.researchresearch.com/news/article/?articleId=1372889)
 
 #### OpenCon 2017
 * [OpenCon project issues](https://github.com/sparcopen/doathon/issues)
