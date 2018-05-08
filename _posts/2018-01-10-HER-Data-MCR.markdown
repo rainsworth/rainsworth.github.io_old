@@ -17,3 +17,17 @@ I organise the Manchester chapter of HER+Data - a meetup group which brings toge
 [HER+Data](https://www.meetup.com/HER-Data) was founded in Dublin, Ireland (originally as XX+Data) by [Karen Church](https://twitter.com/karenchurch) with its kickoff meeting in May 2017. I began organising HER+Data MCR in July, and our [kickoff event](https://www.meetup.com/HER-Data-MCR/events/241920306/) was in September at the Manchester Science Park's brand new Bright Building. The group grew to 200+ members within the first 5 months and gained 2 co-organisers. Our events are sponsored by Rullion Niche Talent and our hosts vary from month to month (MSP, PwC and Rentalcars in 2017).
 
 To find out more information or join our community of women in data, check out our [Meetup](https://www.meetup.com/HER-Data-MCR/) and [Twitter](https://twitter.com/herplusdatamcr) pages. Please get in touch if you are interested in giving a ~10 minute lighning talk, want to get involved, or host one of our events!
+
+### 2017 Events
+
+* [September](https://www.meetup.com/HER-Data-MCR/events/241920306/) - Host: [Manchester Science Partnerships](https://mspl.co.uk/), Speakers: [Geraldine Gallagher](https://www.linkedin.com/in/geraldine-gallagher-91a1b75/) (DWF), [Angeliki Loukatou](https://twitter.com/AngelikiLk) (University of Manchester), [Rachael Ainsworth](https://twitter.com/rachaelevelyn) (University of Manchester)
+* [October](https://www.meetup.com/HER-Data-MCR/events/243851344/) - Host: [PwC](https://www.pwc.co.uk/), Speakers: [Kamila Szczeblewska](https://www.linkedin.com/in/kamila-szczeblewska/) (Rullion Niche Talent), [Leanne Fitzpatrick](https://twitter.com/LK_Fitzpatrick) (Hello Soda), [Reka Solymosi](https://twitter.com/r_solymosi) (University of Manchester), [Carys Davies](https://www.linkedin.com/in/carys-davies-14956987/) (PwC)
+* [November](https://www.meetup.com/HER-Data-MCR/events/244750238/) - Host: [Rentalcars](https://www.rentalcars.com/), Speakers: [Karen Pudner](https://twitter.com/kpudner) (BBC), [Clare Nolan](https://twitter.com/cn174) (Greater Manchester Fire & Rescue Service), [Mona Schommer](https://www.linkedin.com/in/mona-s-a136b521/) (Rentalcars)
+
+
+### 2018 Events
+
+* [February](https://www.meetup.com/HER-Data-MCR/events/246715609/) - Host: [Colony](http://colonyco.work/), Speakers: [Louise Griffiths](https://twitter.com/LouiseiGriff) (PH Jones), [Niche Talent](https://www.nichetalent.com/) CV Masterclass
+* [March](https://www.meetup.com/HER-Data-MCR/events/247834104/) - Host: [Manchester Science Partnerships](https://mspl.co.uk/), Speakers: [Tania Allard](https://twitter.com/ixek) (University of Sheffield), [Rosie Higman](https://twitter.com/RosieHLib) (University of Manchester), [Linda Humphries](https://twitter.com/moominlounge) (Co-op)
+* [April](https://www.meetup.com/HER-Data-MCR/events/248699993/) - Host: [The Federation](http://www.thefederation.coop/), Speakers: [Silvia Maggi](https://twitter.com/simaggi1) (University of Manchester), [Rebecca Davey](https://twitter.com/suprahoopla) (INRIX), [Clara Higuera Cabanes](https://twitter.com/clarahiguerac) (BBC), [Magda Piatkowska](https://twitter.com/magdapiatkowska) (BBC)
+* [May](https://www.meetup.com/HER-Data-MCR/events/250065164/) - Host: [Hello Soda](http://hellosoda.com/), Speakers: [Bethan Turner](https://twitter.com/HoneycombBethan) (Honeycomb), [Tana Joseph](https://www.linkedin.com/in/tanadjoseph/) (University of Manchester), [Szu-Yao Chien](https://www.linkedin.com/in/szu-yao-chien/) (Hello Soda)
