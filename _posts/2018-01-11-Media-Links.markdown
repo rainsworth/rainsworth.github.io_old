@@ -14,8 +14,23 @@ externalLink: false
 
 Below is a list of links to various media such as blog posts, social media, interviews and videos associated with projects that I've been a part of, conveniently located in one place:
 
+# Astronomy
 
-## Mozilla Open Leaders
+* [My week running the Astrotweeps twitter account](https://storify.com/astrotweeps/rachael-ainsworth-s-week)
+* [ASTRON/JIVE Daily Image for LOFAR long baseline working group](http://www.astron.nl/dailyimage/index.html?main.php?date=20170925)
+* [ASTRON/JIVE Daily Image for #CASAVLBI17](http://www.astron.nl/dailyimage/index.html?main.php?date=20171018)
+* [JIVE report on #CASAVLBI17](http://jive.eu/opening-data-processing-casa-vlbi-2017)
+* [RadioNet newsletter](https://www.radionet-org.eu/radionet/?wysija-page=1&controller=email&action=view&email_id=10&user_id=0&wysijap=subscriptions)
+
+# HER+Data MCR
+
+* [Calling All Amazing Data Women! XX+Data MCR Kickoff Meeting](http://www.informatics.manchester.ac.uk/news/latest-stories-updates/calling-all-amazing-data-women-xxplusdata-mcr-kickoff-meeting)
+* [MSP event page](https://mspl.co.uk/events/xxplusdata-mcr-kickoff-meet-the-amazing-women-in-data/)
+* [MSP September newsletter](http://mspl-news.co.uk/t/1ZJ2-568JE-80NZ79FJ8B/cr.aspx)
+* [Karen Church's 2017 Year in Review](https://medium.com/@karenchurch/2017-my-year-in-review-738d73960b3d)
+
+
+# Mozilla Open Leaders
 
 #### Project
 * [Resources for Open Science in Astronomy (ROSA) project repo](https://github.com/rainsworth/ROSA/)
@@ -39,32 +54,18 @@ Below is a list of links to various media such as blog posts, social media, inte
 * [eLife Fostering collaboration at MozFest recap](https://elifesciences.org/labs/7b73319e/fostering-collaboration-at-mozfest?utm_source=tw2&utm_campaign=MozFest)
 * [Software Sustainability Institute's blog post on MozFest 2017](https://software.ac.uk/blog/2018-01-15-mozfest-2017)
 
+#### Mozilla Global Sprint 2018
+* [Mozilla Pulse](https://www.mozillapulse.org/entry/684)
+* [Rute's Global Sprint blog post](https://aariops.github.io/posts/2018/05/blog-post-2/)
+* [My Global Sprint blog post](https://medium.com/@rainsworth/mozsprint-2018-mcr-4bf507b1e557)
 
-## University of Manchester
+#### My Round 5 mentee's project links
+[Observed City website](http://observed.city/)
+[Observed City newsletter](https://tinyletter.com/ObservedCity/archive)
+[Observed City GitHub repo](https://github.com/fionacu/ObservedCity)
 
-* [JBCA Newsletter August 2017](http://www.jodrellbank.manchester.ac.uk/news-and-events/jbca-newsletter/august-2017/)
-* [Open Data Champion secures our sponsored OpenCon 2017 place](https://blog.research-plus.library.manchester.ac.uk/2017/09/28/open-data-champion-secures-our-sponsored-opencon17-place/)
-* [UoM Library Open Research Forum webpage](http://www.library.manchester.ac.uk/using-the-library/staff/research/open-research-forum/)
-* [UoM Library Open Research Forum Storify](https://storify.com/UoMResearchData/open-research-forum-27th-october-2017)
-* [An Astronomy Open Science Champion’s experience of OpenCon2017 (guest blog post on UoM Library Research Plus)](https://blog.research-plus.library.manchester.ac.uk/2017/12/04/an-astronomy-open-science-champions-experience-of-opencon2017/)
-* [JBCA Newsletter December 2017](http://www.jodrellbank.manchester.ac.uk/news-and-events/jbca-newsletter/december-2017/)
 
-## Astronomy
-
-* [My week running the Astrotweeps twitter account](https://storify.com/astrotweeps/rachael-ainsworth-s-week)
-* [ASTRON/JIVE Daily Image for LOFAR long baseline working group](http://www.astron.nl/dailyimage/index.html?main.php?date=20170925)
-* [ASTRON/JIVE Daily Image for #CASAVLBI17](http://www.astron.nl/dailyimage/index.html?main.php?date=20171018)
-* [JIVE report on #CASAVLBI17](http://jive.eu/opening-data-processing-casa-vlbi-2017)
-* [RadioNet newsletter](https://www.radionet-org.eu/radionet/?wysija-page=1&controller=email&action=view&email_id=10&user_id=0&wysijap=subscriptions)
-
-## HER+Data MCR
-
-* [Calling All Amazing Data Women! XX+Data MCR Kickoff Meeting](http://www.informatics.manchester.ac.uk/news/latest-stories-updates/calling-all-amazing-data-women-xxplusdata-mcr-kickoff-meeting)
-* [MSP event page](https://mspl.co.uk/events/xxplusdata-mcr-kickoff-meet-the-amazing-women-in-data/)
-* [MSP September newsletter](http://mspl-news.co.uk/t/1ZJ2-568JE-80NZ79FJ8B/cr.aspx)
-* [Karen Church's 2017 Year in Review](https://medium.com/@karenchurch/2017-my-year-in-review-738d73960b3d)
-
-## Open Science
+# Open Science
 
 #### Open Science Fair 2017
 * [Open Science Fair 2017 (video)](https://vimeo.com/233290266)
@@ -84,7 +85,9 @@ Below is a list of links to various media such as blog posts, social media, inte
 * [An Astronomy Open Science Champion’s experience of OpenCon2017 (guest blog post on UoM Library Research Plus)](https://blog.research-plus.library.manchester.ac.uk/2017/12/04/an-astronomy-open-science-champions-experience-of-opencon2017/)
 * [Reflections on the Open Science conferences of 2017 blog post](https://medium.com/@rainsworth/reflections-on-the-open-science-conferences-of-2017-bfcaac8fdb0b)
 
-## Some of my Twitter threads from conferences/events
+
+# Twitter threads from conferences/events
+
 * [Open Science Fair 2017 Day 1](https://twitter.com/rachaelevelyn/status/905333550739857409)
 * [Open Science Fair 2017 Day 2](https://twitter.com/rachaelevelyn/status/905674802219827201)
 * [Open Science Fair 2017 Day 3](https://twitter.com/rachaelevelyn/status/906025774334959620)
@@ -93,3 +96,14 @@ Below is a list of links to various media such as blog posts, social media, inte
 * [OpenCon 2016 Day 2](https://twitter.com/rachaelevelyn/status/929632609872773123)
 * [OpenCon 2016 Day 3](https://twitter.com/rachaelevelyn/status/929996437605240832)
 * [Mozilla Open Leadership Round 4 Final Demos (Rebel Foxes)](https://twitter.com/rachaelevelyn/status/938408888386445312)
+
+
+# University of Manchester
+
+* [JBCA Newsletter August 2017](http://www.jodrellbank.manchester.ac.uk/news-and-events/jbca-newsletter/august-2017/)
+* [Open Data Champion secures our sponsored OpenCon 2017 place](https://blog.research-plus.library.manchester.ac.uk/2017/09/28/open-data-champion-secures-our-sponsored-opencon17-place/)
+* [UoM Library Open Research Forum webpage](http://www.library.manchester.ac.uk/using-the-library/staff/research/open-research-forum/)
+* [UoM Library Open Research Forum Storify](https://storify.com/UoMResearchData/open-research-forum-27th-october-2017)
+* [An Astronomy Open Science Champion’s experience of OpenCon2017 (guest blog post on UoM Library Research Plus)](https://blog.research-plus.library.manchester.ac.uk/2017/12/04/an-astronomy-open-science-champions-experience-of-opencon2017/)
+* [JBCA Newsletter December 2017](http://www.jodrellbank.manchester.ac.uk/news-and-events/jbca-newsletter/december-2017/)
+* [Jodbite for the Jodcast April 2018 extra](http://www.jodcast.net/archive/201804Extra/)
