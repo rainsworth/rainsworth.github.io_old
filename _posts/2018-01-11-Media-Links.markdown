@@ -60,9 +60,9 @@ Below is a list of links to various media such as blog posts, social media, inte
 * [My Global Sprint blog post](https://medium.com/@rainsworth/mozsprint-2018-mcr-4bf507b1e557)
 
 #### My Round 5 mentee's project links
-[Observed City website](http://observed.city/)
-[Observed City newsletter](https://tinyletter.com/ObservedCity/archive)
-[Observed City GitHub repo](https://github.com/fionacu/ObservedCity)
+* [Observed City website](http://observed.city/)
+* [Observed City newsletter](https://tinyletter.com/ObservedCity/archive)
+* [Observed City GitHub repo](https://github.com/fionacu/ObservedCity)
 
 
 # Open Science
