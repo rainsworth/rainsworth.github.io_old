@@ -113,4 +113,4 @@ Below is a list of links to various media such as blog posts, social media, inte
 * [PM will pay to have 'full association' with EU research](http://www.bbc.co.uk/news/science-environment-44202312)
 * [Theresa May meets scientists at Jodrell Bank today in Macclesfield - The Telegraph](https://www.telegraph.co.uk/politics/2018/05/21/brexit-bulletin-big-brexit-theory/)
 * [May challenges scientists to help transform Britain after Brexit](https://uk.reuters.com/article/uk-britain-health-may/may-challenges-scientists-to-help-transform-britain-after-brexit-idUKKCN1IL0V5)
-* [PM offers EU post-Brexit cash-for-influence deal over nuclear research body](http://www.southwalesargus.co.uk/news/national/16239746.PM_offers_EU_post-Brexit_cash-for-influence_deal_over_nuclear_research_body/)
+* [PM offers EU post-Brexit cash-for-influence deal over nuclear research body](http://www.gazetteandherald.co.uk/news/national/16239746.PM_offers_EU_post-Brexit_cash-for-influence_deal_over_nuclear_research_body/)
