@@ -28,6 +28,7 @@ Below is a list of links to various media such as blog posts, social media, inte
 * [MSP event page](https://mspl.co.uk/events/xxplusdata-mcr-kickoff-meet-the-amazing-women-in-data/)
 * [MSP September newsletter](http://mspl-news.co.uk/t/1ZJ2-568JE-80NZ79FJ8B/cr.aspx)
 * [Karen Church's 2017 Year in Review](https://medium.com/@karenchurch/2017-my-year-in-review-738d73960b3d)
+* [The analyst’s dirty little secret](https://honeycomb-analytics.com/2018/05/analyst-dirty-little-secret/)
 
 
 # Mozilla Open Leaders
