@@ -12,11 +12,13 @@ author: rainsworth
 externalLink: false
 ---
 
-I organise the Manchester chapter of HER+Data - a meetup group which brings together women and all those who identify as women who work with and love data. Women have shared experiences and challenges that we face in male-dominated fields. As a thriving tech scene, Manchester only stands to benefit from gender balance in data roles - it is therefore important to build a network of women with whom to share our experiences, support each other and build confidence in ourselves to help combat gender inequality in tech.
+I organise the Manchester chapter of [HER+Data](http://herplusdata.org/) - a meetup group which brings together women and all those who identify as women who work with and love data. Women have shared experiences and challenges that we face in male-dominated fields. As a thriving tech scene, Manchester only stands to benefit from gender balance in data roles - it is therefore important to build a network of women with whom to share our experiences, support each other and build confidence in ourselves to help combat gender inequality in tech.
 
-[HER+Data](https://www.meetup.com/HER-Data) was founded in Dublin, Ireland (originally as XX+Data) by [Karen Church](https://twitter.com/karenchurch) with its kickoff meeting in May 2017. I began organising HER+Data MCR in July, and our [kickoff event](https://www.meetup.com/HER-Data-MCR/events/241920306/) was in September at the Manchester Science Park's brand new Bright Building. The group grew to 200+ members within the first 5 months and gained 2 co-organisers. Our events are sponsored by Rullion Niche Talent and our hosts vary from month to month (MSP, PwC and Rentalcars in 2017).
+<img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/05organiser.jpg">
 
-To find out more information or join our community of women in data, check out our [Meetup](https://www.meetup.com/HER-Data-MCR/) and [Twitter](https://twitter.com/herplusdatamcr) pages. Please get in touch if you are interested in giving a ~10 minute lighning talk, want to get involved, or host one of our events!
+[HER+Data](https://www.meetup.com/HER-Data) was founded in Dublin, Ireland (originally as XX+Data) by [Karen Church](https://twitter.com/karenchurch) with its kickoff meeting in May 2017. I began organising HER+Data MCR in July, and our [kickoff event](https://www.meetup.com/HER-Data-MCR/events/241920306/) was in September at the Manchester Science Park's brand new Bright Building. The group grew to 200+ members within the first 5 months and gained 2 co-organisers (we now have 350+ members). Our events are very kindly supported by [Rullion](https://www.rullion.co.uk/) and our hosts vary from month to month (MSP, PwC and Rentalcars in 2017; Colony, MSP, the Federation, Hello Soda and Auto Trader UK in 2018).
+
+To find out more information or join our community of women in data, check out our [Meetup](https://www.meetup.com/HER-Data-MCR/) and [Twitter](https://twitter.com/herplusdatamcr) pages. Please get in touch if you are interested in giving a ~10 minute lighning talk, want to get involved, collaborate or host one of our events!
 
 ## 2017 Events
 
