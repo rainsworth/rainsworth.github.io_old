@@ -18,16 +18,90 @@ I organise the Manchester chapter of HER+Data - a meetup group which brings toge
 
 To find out more information or join our community of women in data, check out our [Meetup](https://www.meetup.com/HER-Data-MCR/) and [Twitter](https://twitter.com/herplusdatamcr) pages. Please get in touch if you are interested in giving a ~10 minute lighning talk, want to get involved, or host one of our events!
 
-### 2017 Events
+## 2017 Events
 
-* **[September](https://www.meetup.com/HER-Data-MCR/events/241920306/)** - Host: [Manchester Science Partnerships](https://mspl.co.uk/), Speakers: [Geraldine Gallagher](https://www.linkedin.com/in/geraldine-gallagher-91a1b75/) (DWF), [Angeliki Loukatou](https://twitter.com/AngelikiLk) (University of Manchester), [Rachael Ainsworth](https://twitter.com/rachaelevelyn) (University of Manchester)
-* **[October](https://www.meetup.com/HER-Data-MCR/events/243851344/)** - Host: [PwC](https://www.pwc.co.uk/), Speakers: [Kamila Szczeblewska](https://www.linkedin.com/in/kamila-szczeblewska/) (Rullion Niche Talent), [Leanne Fitzpatrick](https://twitter.com/LK_Fitzpatrick) (Hello Soda), [Reka Solymosi](https://twitter.com/r_solymosi) (University of Manchester), [Carys Davies](https://www.linkedin.com/in/carys-davies-14956987/) (PwC)
-* **[November](https://www.meetup.com/HER-Data-MCR/events/244750238/)** - Host: [Rentalcars](https://www.rentalcars.com/), Speakers: [Karen Pudner](https://twitter.com/kpudner) (BBC), [Clare Nolan](https://twitter.com/cn174) (Greater Manchester Fire & Rescue Service), [Mona Schommer](https://www.linkedin.com/in/mona-s-a136b521/) (Rentalcars)
+### 1. [September](https://www.meetup.com/HER-Data-MCR/events/241920306/)
+
+<img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/01social.png">
+
+Host: [Manchester Science Partnerships](https://mspl.co.uk/)
+
+Speakers: [Geraldine Gallagher](https://www.linkedin.com/in/geraldine-gallagher-91a1b75/) (DWF), [Angeliki Loukatou](https://twitter.com/AngelikiLk) (University of Manchester), [Rachael Ainsworth](https://twitter.com/rachaelevelyn) (University of Manchester)
+
+### 2. [October](https://www.meetup.com/HER-Data-MCR/events/243851344/)
+
+<img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/02social.png">
+
+<img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/02group.jpg">
+
+Host: [PwC](https://www.pwc.co.uk/)
+
+Speakers: [Kamila Szczeblewska](https://www.linkedin.com/in/kamila-szczeblewska/) (Rullion Niche Talent), [Leanne Fitzpatrick](https://twitter.com/LK_Fitzpatrick) (Hello Soda), [Reka Solymosi](https://twitter.com/r_solymosi) (University of Manchester), [Carys Davies](https://www.linkedin.com/in/carys-davies-14956987/) (PwC)
 
 
-### 2018 Events
+### 3. [November](https://www.meetup.com/HER-Data-MCR/events/244750238/)
 
-* **[February](https://www.meetup.com/HER-Data-MCR/events/246715609/)** - Host: [Colony](http://colonyco.work/), Speakers: [Louise Griffiths](https://twitter.com/LouiseiGriff) (PH Jones), [Niche Talent](https://www.nichetalent.com/) CV Masterclass
-* **[March](https://www.meetup.com/HER-Data-MCR/events/247834104/)** - Host: [Manchester Science Partnerships](https://mspl.co.uk/), Speakers: [Tania Allard](https://twitter.com/ixek) (University of Sheffield), [Rosie Higman](https://twitter.com/RosieHLib) (University of Manchester), [Linda Humphries](https://twitter.com/moominlounge) (Co-op)
-* **[April](https://www.meetup.com/HER-Data-MCR/events/248699993/)** - Host: [The Federation](http://www.thefederation.coop/), Speakers: [Silvia Maggi](https://twitter.com/simaggi1) (University of Manchester), [Rebecca Davey](https://twitter.com/suprahoopla) (INRIX), [Clara Higuera Cabanes](https://twitter.com/clarahiguerac) (BBC), [Magda Piatkowska](https://twitter.com/magdapiatkowska) (BBC)
-* **[May](https://www.meetup.com/HER-Data-MCR/events/250065164/)** - Host: [Hello Soda](http://hellosoda.com/), Speakers: [Bethan Turner](https://twitter.com/HoneycombBethan) (Honeycomb), [Tana Joseph](https://www.linkedin.com/in/tanadjoseph/) (University of Manchester), [Szu-Yao Chien](https://www.linkedin.com/in/szu-yao-chien/) (Hello Soda)
+<img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/03social.png">
+
+<img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/03group.jpg">
+
+Host: [Rentalcars](https://www.rentalcars.com/)
+
+Speakers: [Karen Pudner](https://twitter.com/kpudner) (BBC), [Clare Nolan](https://twitter.com/cn174) (Greater Manchester Fire & Rescue Service), [Mona Schommer](https://www.linkedin.com/in/mona-s-a136b521/) (Rentalcars)
+
+
+## 2018 Events
+
+### 4. [February](https://www.meetup.com/HER-Data-MCR/events/246715609/)
+
+<img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/04social.png">
+
+<img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/04group.jpg">
+
+Host: [Colony](http://colonyco.work/)
+
+Speakers: [Louise Griffiths](https://twitter.com/LouiseiGriff) (PH Jones), [Niche Talent](https://www.nichetalent.com/) CV Masterclass
+
+
+### 5. [March](https://www.meetup.com/HER-Data-MCR/events/247834104/)
+
+<img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/05social.png">
+
+<img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/05group.jpg">
+
+Host: [Manchester Science Partnerships](https://mspl.co.uk/)
+
+Speakers: [Tania Allard](https://twitter.com/ixek) (University of Sheffield), [Rosie Higman](https://twitter.com/RosieHLib) (University of Manchester), [Linda Humphries](https://twitter.com/moominlounge) (Co-op)
+
+
+### 6. [April](https://www.meetup.com/HER-Data-MCR/events/248699993/)
+
+<img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/06social.png">
+
+<img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/06group.jpg">
+
+Host: [The Federation](http://www.thefederation.coop/)
+
+Speakers: [Silvia Maggi](https://twitter.com/simaggi1) (University of Manchester), [Rebecca Davey](https://twitter.com/suprahoopla) (INRIX), [Clara Higuera Cabanes](https://twitter.com/clarahiguerac) (BBC), [Magda Piatkowska](https://twitter.com/magdapiatkowska) (BBC)
+
+
+### 7. [May](https://www.meetup.com/HER-Data-MCR/events/250065164/)
+
+<img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/07social.png">
+
+<img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/07group.jpg">
+
+Host: [Hello Soda](http://hellosoda.com/)
+
+Speakers: [Bethan Turner](https://twitter.com/HoneycombBethan) (Honeycomb), [Tana Joseph](https://www.linkedin.com/in/tanadjoseph/) (University of Manchester), [Szu-Yao Chien](https://www.linkedin.com/in/szu-yao-chien/) (Hello Soda)
+
+
+### 8. [June](https://www.meetup.com/HER-Data-MCR/events/250771238/)
+
+<img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/08social.png">
+
+Host: [Auto Trader UK](https://www.autotrader.co.uk/)
+
+Speakers: Zoë Stafford (The National Probation Service North West), [Laura Kenny](https://twitter.com/this_lk) (CLOS Consultancy), [Agnes Altmets](https://www.linkedin.com/in/agnesaltmets/) (Auto Trader UK)
+
+
