@@ -30,6 +30,8 @@ Host: [Manchester Science Partnerships](https://mspl.co.uk/)
 
 Speakers: [Geraldine Gallagher](https://www.linkedin.com/in/geraldine-gallagher-91a1b75/) (DWF), [Angeliki Loukatou](https://twitter.com/AngelikiLk) (University of Manchester), [Rachael Ainsworth](https://twitter.com/rachaelevelyn) (University of Manchester)
 
+Attendees: ~40
+
 ### 2. [October](https://www.meetup.com/HER-Data-MCR/events/243851344/)
 
 <img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/02social.png">
@@ -40,6 +42,7 @@ Host: [PwC](https://www.pwc.co.uk/)
 
 Speakers: [Kamila Szczeblewska](https://www.linkedin.com/in/kamila-szczeblewska/) (Rullion Niche Talent), [Leanne Fitzpatrick](https://twitter.com/LK_Fitzpatrick) (Hello Soda), [Reka Solymosi](https://twitter.com/r_solymosi) (University of Manchester), [Carys Davies](https://www.linkedin.com/in/carys-davies-14956987/) (PwC)
 
+Attendees: ~40
 
 ### 3. [November](https://www.meetup.com/HER-Data-MCR/events/244750238/)
 
@@ -51,6 +54,7 @@ Host: [Rentalcars](https://www.rentalcars.com/)
 
 Speakers: [Karen Pudner](https://twitter.com/kpudner) (BBC), [Clare Nolan](https://twitter.com/cn174) (Greater Manchester Fire & Rescue Service), [Mona Schommer](https://www.linkedin.com/in/mona-s-a136b521/) (Rentalcars)
 
+Attendees: ~40
 
 ## 2018 Events
 
@@ -64,6 +68,7 @@ Host: [Colony](http://colonyco.work/)
 
 Speakers: [Louise Griffiths](https://twitter.com/LouiseiGriff) (PH Jones), [Niche Talent](https://www.nichetalent.com/) CV Masterclass
 
+Attendees: ~30
 
 ### 5. [March](https://www.meetup.com/HER-Data-MCR/events/247834104/)
 
@@ -75,6 +80,7 @@ Host: [Manchester Science Partnerships](https://mspl.co.uk/)
 
 Speakers: [Tania Allard](https://twitter.com/ixek) (University of Sheffield), [Rosie Higman](https://twitter.com/RosieHLib) (University of Manchester), [Linda Humphries](https://twitter.com/moominlounge) (Co-op)
 
+Attendees: ~30
 
 ### 6. [April](https://www.meetup.com/HER-Data-MCR/events/248699993/)
 
@@ -86,6 +92,7 @@ Host: [The Federation](http://www.thefederation.coop/)
 
 Speakers: [Silvia Maggi](https://twitter.com/simaggi1) (University of Manchester), [Rebecca Davey](https://twitter.com/suprahoopla) (INRIX), [Clara Higuera Cabanes](https://twitter.com/clarahiguerac) (BBC), [Magda Piatkowska](https://twitter.com/magdapiatkowska) (BBC)
 
+Attendees: ~50
 
 ### 7. [May](https://www.meetup.com/HER-Data-MCR/events/250065164/)
 
@@ -97,13 +104,17 @@ Host: [Hello Soda](http://hellosoda.com/)
 
 Speakers: [Bethan Turner](https://twitter.com/HoneycombBethan) (Honeycomb), [Tana Joseph](https://www.linkedin.com/in/tanadjoseph/) (University of Manchester), [Szu-Yao Chien](https://www.linkedin.com/in/szu-yao-chien/) (Hello Soda)
 
+Attendees: ~40
 
 ### 8. [June](https://www.meetup.com/HER-Data-MCR/events/250771238/)
 
 <img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/08social.png">
 
+<img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/08group.jpg">
+
 Host: [Auto Trader UK](https://www.autotrader.co.uk/)
 
 Speakers: Zoë Stafford (The National Probation Service North West), [Laura Kenny](https://twitter.com/this_lk) (CLOS Consultancy), [Agnes Altmets](https://www.linkedin.com/in/agnesaltmets/) (Auto Trader UK)
 
+Attendees: ~35
 
