@@ -118,3 +118,11 @@ Speakers: Zoë Stafford (The National Probation Service North West), [Laura Kenn
 
 Attendees: ~35
 
+### 9. [July](https://www.meetup.com/HER-Data-MCR/events/252362239/)
+
+<img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/09social.png">
+
+Host: [PwC](https://www.pwc.co.uk/careers/offices/manchester.html)
+
+Speakers: N/A - this event is our summer social dedicated to networking!
+
