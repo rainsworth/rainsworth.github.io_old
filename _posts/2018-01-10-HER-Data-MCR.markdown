@@ -122,7 +122,10 @@ Attendees: ~35
 
 <img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/09social.png">
 
+<img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/09group.jpg">
+
 Host: [PwC](https://www.pwc.co.uk/careers/offices/manchester.html)
 
 Speakers: N/A - this event is our summer social dedicated to networking!
 
+Attendees: ~25
