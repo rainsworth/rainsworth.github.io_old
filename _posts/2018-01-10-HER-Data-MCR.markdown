@@ -129,3 +129,15 @@ Host: [PwC](https://www.pwc.co.uk/careers/offices/manchester.html)
 Speakers: N/A - this event is our summer social dedicated to networking!
 
 Attendees: ~25
+
+### 10. [August](https://www.meetup.com/HER-Data-MCR/events/252863467/)
+
+<img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/10social.png">
+
+<img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/10group.jpg">
+
+Host: [Valtech UK](https://www.valtech.co.uk/)
+
+Speakers: Margaux Dumon (Valtech UK), Sarah Belghiti (Valtech UK), Cheryl Edwards (Valtech UK)
+
+Attendees: ~40
