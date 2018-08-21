@@ -141,3 +141,12 @@ Host: [Valtech UK](https://www.valtech.co.uk/)
 Speakers: Margaux Dumon (Valtech UK), Sarah Belghiti (Valtech UK), Cheryl Edwards (Valtech UK)
 
 Attendees: ~40
+
+### 11. [September](https://www.meetup.com/HER-Data-MCR/events/253748924/)
+
+<img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/11social.png">
+
+Host: [Intechnica](https://intechnica.com/)
+
+Speakers: [Zandra Moore](https://twitter.com/zandramoore) (Panintelligence), [Kirsty Devlin](https://twitter.com/Kirstydevlin1) (Thoughtworks), [Karen Church](https://twitter.com/karenchurch) (Intercom)
+
