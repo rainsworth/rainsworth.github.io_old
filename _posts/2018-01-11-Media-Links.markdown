@@ -82,7 +82,7 @@ Below is a list of links to various media such as blog posts, social media, inte
 * [OpenCon OpenComm Network podcast interview](https://soundcloud.com/rachaelevelyn/opencon-2017-interview)
 * [The Method Podcast OpenCon OpenComm episode](https://soundcloud.com/themethodpodcast/01-what-is-open-media-opencomm-open-media-network-do-a-thon)
 * [Liberate Science newsletter](https://tinyletter.com/libscie/letters/opencon2017-and-mozilla-open-leadership)
-* [OpenCon 2017 blog pos](https://medium.com/@rainsworth/opencon-2017-7a2a5167c8a3)
+* [OpenCon 2017 blog post](https://medium.com/@rainsworth/opencon-2017-7a2a5167c8a3)
 * [An Astronomy Open Science Champion’s experience of OpenCon2017 (guest blog post on UoM Library Research Plus)](https://blog.research-plus.library.manchester.ac.uk/2017/12/04/an-astronomy-open-science-champions-experience-of-opencon2017/)
 * [Reflections on the Open Science conferences of 2017 blog post](https://medium.com/@rainsworth/reflections-on-the-open-science-conferences-of-2017-bfcaac8fdb0b)
 
