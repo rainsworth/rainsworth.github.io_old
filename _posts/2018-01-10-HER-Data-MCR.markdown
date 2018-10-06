@@ -146,7 +146,18 @@ Attendees: ~40
 
 <img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/11social.png">
 
+<img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/11group.jpg">
+
 Host: [Intechnica](https://intechnica.com/)
 
 Speakers: [Zandra Moore](https://twitter.com/zandramoore) (Panintelligence), [Kirsty Devlin](https://twitter.com/Kirstydevlin1) (Thoughtworks), [Karen Church](https://twitter.com/karenchurch) (Intercom)
 
+Attendees: ~40
+
+### 12. [October](https://www.meetup.com/HER-Data-MCR/events/254753352/)
+
+<img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/12social.png">
+
+Host: [Thoughtworks](https://www.thoughtworks.com/fedhouse-manchester)
+
+Speakers: [Lindsay Pellow](https://twitter.com/lins_pell) (Co-op), [Evolution Recruitment Solutions](https://www.evolutionjobs.com/uk/) Interview Techniques Masterclass
