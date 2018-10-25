@@ -115,3 +115,4 @@ Below is a list of links to various media such as blog posts, social media, inte
 * [Theresa May meets scientists at Jodrell Bank today in Macclesfield - The Telegraph](https://www.telegraph.co.uk/politics/2018/05/21/brexit-bulletin-big-brexit-theory/)
 * [May challenges scientists to help transform Britain after Brexit](https://uk.reuters.com/article/uk-britain-health-may/may-challenges-scientists-to-help-transform-britain-after-brexit-idUKKCN1IL0V5)
 * [PM offers EU post-Brexit cash-for-influence deal over nuclear research body](http://www.gazetteandherald.co.uk/news/national/16239746.PM_offers_EU_post-Brexit_cash-for-influence_deal_over_nuclear_research_body/)
+* [So you think you know your country — revealing the hidden patterns in local democracy blog post by my 2018 summer student Pamilla Kang](https://medium.com/@opendatamcr/so-you-think-you-know-your-country-revealing-the-hidden-patterns-in-local-democracy-dd41e1fe29e5)
