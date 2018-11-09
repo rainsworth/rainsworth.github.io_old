@@ -16,7 +16,7 @@ I organise the Manchester chapter of [HER+Data](http://herplusdata.org/) - a mee
 
 <img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/05organiser.jpg">
 
-[HER+Data](https://www.meetup.com/HER-Data) was founded in Dublin, Ireland (originally as XX+Data) by [Karen Church](https://twitter.com/karenchurch) with its kickoff meeting in May 2017. I began organising HER+Data MCR in July, and our [kickoff event](https://www.meetup.com/HER-Data-MCR/events/241920306/) was in September at the Manchester Science Park's brand new Bright Building. The group grew to 200+ members within the first 5 months and gained 2 co-organisers (we now have 450+ members). Our events are very kindly supported by [Rullion](https://www.rullion.co.uk/) and our hosts vary from month to month (MSP, PwC and Rentalcars in 2017; Colony, MSP, the Federation, Hello Soda and Auto Trader UK in 2018).
+[HER+Data](https://www.meetup.com/HER-Data) was founded in Dublin, Ireland (originally as XX+Data) by [Karen Church](https://twitter.com/karenchurch) with its kickoff meeting in May 2017. I began organising HER+Data MCR in July, and our [kickoff event](https://www.meetup.com/HER-Data-MCR/events/241920306/) was in September at the Manchester Science Park's brand new Bright Building. The group grew to 200+ members within the first 5 months and gained 2 co-organisers (we now have 525+ members). Our events are very kindly supported by [Evolution Recruitment Solutions](https://www.evolutionjobs.com/uk/) and our hosts vary from month to month (MSP, PwC and Rentalcars in 2017; Colony, MSP, the Federation, Hello Soda and Auto Trader UK in 2018).
 
 To find out more information or join our community of women in data, check out our [Meetup](https://www.meetup.com/HER-Data-MCR/) and [Twitter](https://twitter.com/herplusdatamcr) pages. Please get in touch if you are interested in giving a ~10 minute lighning talk, want to get involved, collaborate or host one of our events!
 
@@ -158,6 +158,28 @@ Attendees: ~40
 
 <img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/12social.png">
 
+<img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/12group.jpg">
+
 Host: [Thoughtworks](https://www.thoughtworks.com/fedhouse-manchester)
 
 Speakers: [Lindsay Pellow](https://twitter.com/lins_pell) (Co-op), [Evolution Recruitment Solutions](https://www.evolutionjobs.com/uk/) Interview Techniques Masterclass
+
+Attendees: ~30
+
+### 13. [November](https://www.meetup.com/HER-Data-MCR/events/255694843/)
+
+<img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/13social.png">
+
+<img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/images/projects/herplusdatamcr/13group.jpg">
+
+Host: [KPMG](https://home.kpmg.com/uk/en/home/about/offices/manchester-1.html)
+
+Speakers: [Anne Sloman](https://twitter.com/anne_sloman) (Red Tiger Consulting), [Mayowa Ayodele](https://www.linkedin.com/in/ayodele-mayowa-434a9848/) (DWF Law), [Katie-Marie Friday](https://uk.linkedin.com/in/katie-marie-friday-4363b3127) (KPMG)
+
+Attendees: ~50
+
+
+### Other events:
+
+- [Manchester Hacktoberfest by PyDataMCR, PyLadiesNW, and HER+Data](https://www.eventbrite.com/e/manchester-hacktoberfest-by-pydatamcr-pyladiesnw-and-herdata-tickets-50085693658#)
+- [All the Women in Tech Christmas Bonanza!](https://www.eventbrite.co.uk/e/all-the-women-in-tech-christmas-bonanza-tickets-51544619344)
