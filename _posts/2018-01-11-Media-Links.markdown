@@ -29,6 +29,8 @@ Below is a list of links to various media such as blog posts, social media, inte
 * [MSP September newsletter](http://mspl-news.co.uk/t/1ZJ2-568JE-80NZ79FJ8B/cr.aspx)
 * [Karen Church's 2017 Year in Review](https://medium.com/@karenchurch/2017-my-year-in-review-738d73960b3d)
 * [The analyst’s dirty little secret](https://honeycomb-analytics.com/2018/05/analyst-dirty-little-secret/)
+* [Women In Tech Christmas Bonanza: The Round Up by Hello Soda](https://hellosoda.com/women-tech-christmas-bonanza-round-up/)
+* [Women In Tech Christmas Bonanza Report by Digital Gurus](https://digitalgurus.online/uk/blog/women-in-tech-christmas-bonanza-report/)
 
 
 # Mozilla Open Leaders
